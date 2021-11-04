@@ -1,0 +1,13 @@
+## Gradle
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+## Visual Studio Code
+.vscode/
+.code-workspace
+!.vscode/tasks.json
+!.vscode/launch.json
